@@ -1,0 +1,28 @@
+{
+  "name": "iad.rockyno.de",
+  "type": "module",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro check && astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/alpinejs": "^0.3.1",
+    "@astrojs/check": "^0.3.4",
+    "@astrojs/partytown": "^2.0.2",
+    "@astrojs/tailwind": "^5.0.4",
+    "@spotlightjs/astro": "^1.0.8",
+    "@types/alpinejs": "^3.13.5",
+    "alpinejs": "^3.13.3",
+    "astro": "^4.0.7",
+    "astro-robots-txt": "^1.0.0",
+    "astro-seo-meta": "^4.0.0",
+    "astro-seo-schema": "^4.0.0",
+    "schema-dts": "^1.1.2",
+    "tailwindcss": "^3.4.0",
+    "typescript": "^5.3.3"
+  }
+}
