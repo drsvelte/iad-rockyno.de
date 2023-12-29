@@ -8,7 +8,7 @@
 
 <h2>Project Screenshot:</h2>
 
-<p align="center"><img src="https://res.cloudinary.com/shinkirin/image/upload/v1703207456/drsvelte/rocky-sea-node-screenshot.webp" alt="project-image"></p>
+<p align="center"><img src="https://res.cloudinary.com/shinkirin/image/upload/v1703820848/Screenshot_2023-12-28_at_7.33.43_PM_ejevi1.pngp" alt="project-image"></p>
 
   
   
